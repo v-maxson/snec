@@ -1,0 +1,4 @@
+#ifndef GAME_CONTEXT_H
+#define GAME_CONTEXT_H
+
+#endif //GAME_CONTEXT_H
