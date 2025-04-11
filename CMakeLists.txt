@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.31)
 
-set(PROJECT_NAME "ctemplate")
+set(PROJECT_NAME "snec")
 string(TOUPPER ${PROJECT_NAME} PROJECT_NAME_UPPER)
 set(PROJECT_VERSION "0.1.0")
 set(PROJECT_REPOSITORY https://github.com/v-maxson/snec)
